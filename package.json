@@ -2,7 +2,7 @@
   "name": "tabout",
   "displayName": "tabout",
   "description": "Tab out of quotes, brackets, etc",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "publisher": "albert",
   "engines": {
     "vscode": "^1.81.0"
