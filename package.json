@@ -1,9 +1,9 @@
 {
-  "name": "tabout",
-  "displayName": "tabout",
+  "name": "taboutfork",
+  "displayName": "Tabout - fork",
   "description": "Tab out of quotes, brackets, etc",
   "version": "0.2.3",
-  "publisher": "albert",
+  "publisher": "zyxwars",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/albertromkes/tabout",
   "repository": {
     "type": "git",
-    "url": "https://github.com/albertromkes/tabout.git"
+    "url": "https://github.com/zyxwars/tabout.git"
   },
   "icon": "images/Tab-Key.jpg",
   "categories": [
